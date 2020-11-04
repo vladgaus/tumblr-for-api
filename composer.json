@@ -1,18 +1,14 @@
 {
 
   "name": "vladgaus/tumblr",
-
-  "description": "Official Tumblr PHP Client",
-
   "keywords": ["tumblr"],
 
-  "homepage": "https://github.com/tumblr/tumblr.php",
+  "homepage": "https://github.com/vladgaus/tumblr-for-api",
 
   "authors": [
     {
       "name": "vladgaus",
       "email": "vladgaus@gmail.com",
-      "homepage": "https://github.com/seejohnrun",
       "role": "developer"
     }
   ],
